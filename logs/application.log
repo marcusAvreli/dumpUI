@@ -1,0 +1,202 @@
+2022-05-05T09:10:41,765  INFO main dumpUI.App:20 - APP_STARTED
+2022-05-05T09:10:41,769  INFO main dumpUI.App:21 - APP_FINISHED
+2022-05-05T09:32:35,254  INFO main dumpUI.App:20 - APP_STARTED
+2022-05-05T09:32:35,258  INFO main dumpUI.App:21 - APP_FINISHED
+2022-05-05T10:09:35,827  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T10:09:36,043  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T10:10:13,453  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T10:10:13,671  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T11:16:24,972  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T11:16:25,177  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T11:41:48,982  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T11:41:49,201  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T11:43:18,648  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T11:43:18,861  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T11:43:20,223  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T11:43:20,847  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T11:43:21,248  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T11:43:21,431  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T11:43:21,815  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T11:43:21,999  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T11:43:22,176  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T11:44:21,485  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T11:44:21,692  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T11:44:22,744  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T11:44:22,745  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:42 - add event received
+2022-05-05T11:44:24,591  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T11:44:24,592  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:42 - add event received
+2022-05-05T11:44:26,775  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T11:44:26,776  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:42 - add event received
+2022-05-05T11:53:52,995  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T11:53:53,215  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T11:53:54,367  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T11:53:54,372  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:44 - add event received
+2022-05-05T11:53:55,400  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T11:53:55,400  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:44 - add event received
+2022-05-05T11:54:31,071  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T11:54:31,282  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T11:54:32,481  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T11:54:32,483  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:44 - add event received
+2022-05-05T11:56:26,248  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T11:56:26,466  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T11:56:27,584  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T11:56:27,585  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:44 - add event received
+2022-05-05T12:01:48,349  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T12:01:48,580  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T12:01:49,679  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T12:01:49,680  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:44 - add event received
+2022-05-05T12:01:50,599  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T12:01:50,600  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:44 - add event received
+2022-05-05T12:02:41,141  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T12:02:41,360  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T12:02:42,239  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T12:02:42,241  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:44 - add event received
+2022-05-05T12:02:42,919  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T12:02:42,919  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:44 - add event received
+2022-05-05T12:02:43,431  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T12:02:43,431  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:44 - add event received
+2022-05-05T12:02:44,143  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T12:02:44,143  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:44 - add event received
+2022-05-05T12:02:44,327  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T12:02:44,327  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:44 - add event received
+2022-05-05T12:04:37,961  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T12:04:38,221  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T12:04:39,023  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T12:04:39,024  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:45 - add event received
+2022-05-05T12:04:39,025  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:54 - model updated
+2022-05-05T12:04:39,887  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T12:04:39,887  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:45 - add event received
+2022-05-05T12:04:39,888  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:54 - model updated
+2022-05-05T12:04:40,407  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T12:04:40,407  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:45 - add event received
+2022-05-05T12:04:40,408  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:54 - model updated
+2022-05-05T12:10:42,076  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T12:10:42,321  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T12:10:43,704  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T12:10:43,705  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:46 - add event received
+2022-05-05T12:10:43,705  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated1
+2022-05-05T12:10:44,191  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T12:10:44,191  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:46 - add event received
+2022-05-05T12:10:44,192  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated2
+2022-05-05T12:10:45,047  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T12:10:45,047  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:46 - add event received
+2022-05-05T12:10:45,048  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated3
+2022-05-05T12:10:45,303  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T12:10:45,303  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:46 - add event received
+2022-05-05T12:10:45,303  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated4
+2022-05-05T12:10:45,815  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T12:10:45,815  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:46 - add event received
+2022-05-05T12:10:45,815  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated5
+2022-05-05T12:10:45,999  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T12:10:45,999  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:46 - add event received
+2022-05-05T12:10:45,999  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated6
+2022-05-05T12:10:46,167  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T12:10:46,167  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:46 - add event received
+2022-05-05T12:10:46,167  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated7
+2022-05-05T12:10:46,527  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T12:10:46,527  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:46 - add event received
+2022-05-05T12:10:46,528  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated8
+2022-05-05T12:10:46,703  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T12:10:46,703  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:46 - add event received
+2022-05-05T12:10:46,704  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated9
+2022-05-05T12:10:46,911  INFO AWT-EventQueue-0 dumpUI.view.MainFrame:88 - add event called
+2022-05-05T12:10:46,911  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:46 - add event received
+2022-05-05T12:10:46,911  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated10
+2022-05-05T12:11:57,248  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T12:11:57,466  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T12:11:58,479  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:1
+2022-05-05T12:11:58,959  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:2
+2022-05-05T12:11:59,143  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:3
+2022-05-05T12:11:59,335  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:4
+2022-05-05T12:11:59,510  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:5
+2022-05-05T12:11:59,887  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:6
+2022-05-05T12:12:00,070  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:7
+2022-05-05T12:12:00,247  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:8
+2022-05-05T12:12:00,431  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:9
+2022-05-05T12:12:00,615  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:10
+2022-05-05T12:12:00,807  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:11
+2022-05-05T12:12:01,039  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:12
+2022-05-05T12:12:01,214  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:13
+2022-05-05T12:12:01,406  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:14
+2022-05-05T12:12:01,574  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:15
+2022-05-05T12:12:01,752  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:16
+2022-05-05T12:16:52,872  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T12:16:53,087  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T12:16:54,143  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:1
+2022-05-05T12:16:54,639  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:2
+2022-05-05T12:16:54,855  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:3
+2022-05-05T12:16:55,031  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:4
+2022-05-05T12:16:55,215  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:5
+2022-05-05T12:16:55,383  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:6
+2022-05-05T13:29:35,551  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T13:30:51,851  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T13:37:35,311  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T13:37:35,609  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T13:37:36,998  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:1
+2022-05-05T13:37:37,581  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:2
+2022-05-05T13:37:37,765  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:3
+2022-05-05T13:37:37,924  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:4
+2022-05-05T13:37:38,108  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:5
+2022-05-05T13:37:38,262  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:6
+2022-05-05T13:54:02,030  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T13:54:02,210  INFO main dumpUI.components.itemslist.MyStoredProcedureListPanel:33 - checkPost
+2022-05-05T13:54:02,381  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T13:54:04,084  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:1
+2022-05-05T13:54:04,779  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:2
+2022-05-05T13:54:05,324  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:3
+2022-05-05T13:56:19,406  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T13:56:19,581  INFO main dumpUI.components.itemslist.MyStoredProcedureListPanel:33 - checkPost
+2022-05-05T13:56:19,774  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T13:56:22,540  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:1
+2022-05-05T13:56:23,244  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:2
+2022-05-05T13:56:23,629  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:3
+2022-05-05T13:56:23,803  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:4
+2022-05-05T13:56:23,980  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:5
+2022-05-05T13:56:24,139  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:6
+2022-05-05T13:56:24,308  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:7
+2022-05-05T13:56:24,476  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:8
+2022-05-05T13:56:24,643  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:9
+2022-05-05T13:56:24,804  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:10
+2022-05-05T13:56:24,997  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:11
+2022-05-05T13:57:01,916  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T13:57:02,112  INFO main dumpUI.components.itemslist.MyStoredProcedureListPanel:33 - checkPost
+2022-05-05T13:57:02,275  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T13:57:03,293  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:1
+2022-05-05T13:57:03,499  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:2
+2022-05-05T13:57:03,684  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:3
+2022-05-05T13:57:03,860  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:4
+2022-05-05T13:57:04,036  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:5
+2022-05-05T13:57:04,204  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:6
+2022-05-05T13:57:04,372  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:7
+2022-05-05T13:57:04,555  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:8
+2022-05-05T13:57:04,732  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:9
+2022-05-05T13:57:04,916  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:10
+2022-05-05T13:57:05,092  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:11
+2022-05-05T14:08:03,001  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T14:08:03,114  INFO main dumpUI.components.tableModel.MyStoredProcedureTableModel:20 - MyStoredProcedureTableModel
+2022-05-05T14:08:03,164  INFO main dumpUI.components.itemslist.MyStoredProcedureListPanel:33 - checkPost
+2022-05-05T14:08:03,332  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T14:08:16,324  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:1
+2022-05-05T14:51:21,736  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T14:51:21,856  INFO main dumpUI.components.tableModel.MyStoredProcedureTableModel:20 - MyStoredProcedureTableModel
+2022-05-05T14:51:21,911  INFO main dumpUI.components.itemslist.MyStoredProcedureListPanel:33 - before adding addAffiliationObserver
+2022-05-05T14:51:22,131  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T14:51:51,815  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T14:51:51,933  INFO main dumpUI.components.tableModel.MyStoredProcedureTableModel:20 - MyStoredProcedureTableModel
+2022-05-05T14:51:51,988  INFO main dumpUI.components.itemslist.MyStoredProcedureListPanel:33 - before adding addAffiliationObserver
+2022-05-05T14:51:52,187  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T14:51:57,003  INFO AWT-EventQueue-0 dumpUI.components.manager.MyStoredProcedureManager:34 - CheckPost1
+2022-05-05T14:52:23,319  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T14:52:23,459  INFO main dumpUI.components.tableModel.MyStoredProcedureTableModel:20 - MyStoredProcedureTableModel
+2022-05-05T14:52:23,524  INFO main dumpUI.components.itemslist.MyStoredProcedureListPanel:33 - before adding addAffiliationObserver
+2022-05-05T14:52:23,740  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T14:52:25,034  INFO AWT-EventQueue-0 dumpUI.Controller.Controller:55 - model updated:1
+2022-05-05T14:52:52,624  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T14:52:52,741  INFO main dumpUI.components.tableModel.MyStoredProcedureTableModel:20 - MyStoredProcedureTableModel
+2022-05-05T14:52:52,793  INFO main dumpUI.components.itemslist.MyStoredProcedureListPanel:33 - before adding addAffiliationObserver
+2022-05-05T14:52:52,994  INFO main dumpUI.App:27 - APP_FINISHED
+2022-05-05T14:53:18,354  INFO AWT-EventQueue-0 dumpUI.components.manager.MyStoredProcedureManager:34 - CheckPost1
+2022-05-05T14:53:33,752  INFO main dumpUI.App:25 - APP_STARTED
+2022-05-05T14:53:33,874  INFO main dumpUI.components.tableModel.MyStoredProcedureTableModel:20 - MyStoredProcedureTableModel
+2022-05-05T14:53:33,926  INFO main dumpUI.components.itemslist.MyStoredProcedureListPanel:33 - before adding addAffiliationObserver
+2022-05-05T14:53:34,098  INFO main dumpUI.App:27 - APP_FINISHED
